@@ -30,6 +30,14 @@ body {
   font-weight: 700;
   color: hsl(60, 4%, 23%);
 }
+/* Hero Section */
+
+#Hero-Section {
+  background-image: url("../img/yo\ new\ york3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
 
 @media (max-width: 768px) {
   #Contacto form label {
